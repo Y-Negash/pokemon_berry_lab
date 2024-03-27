@@ -1,0 +1,57 @@
+h1{
+    background-color: rgb(54, 184, 239);
+    text-align: center;
+    border-radius: 45%;
+    height: 100px;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(215, 240, 126);
+    height: 50px;
+    border-radius: 45%;
+}
+
+h3{
+    background-color: pink;
+    text-align: center;
+    padding: 20%;
+    border-radius: 25%;
+}
+
+.berries {
+    color: white;
+    background-color: rgb(238, 145, 233);
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    width: 200px;
+    border-radius: 20px;
+    border-style: groove;
+    border-color: rgb(225, 245, 7);
+    border-width: 20 px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.berryList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.search {
+    background-color: rgb(232, 209, 230);
+    padding: 10px;
+    margin-left: 10px;
+    /* justify-content: center; */
+    border-radius: 20px;
+    text-align: center;
+    
+}
+
+body{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5486e4e-a2a0-44d8-891d-2acdd98d5e42/d960eoi-977d3066-0885-4234-aaa9-82cf9414b72b.png/v1/fill/w_1024,h_1024,q_80,strp/pokemon_berry_grid_by_michaelgermany_d960eoi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1NDg2ZTRlLWEyYTAtNDRkOC04OTFkLTJhY2RkOThkNWU0MlwvZDk2MGVvaS05NzdkMzA2Ni0wODg1LTQyMzQtYWFhOS04MmNmOTQxNGI3MmIucG5nIiwiaGVpZ2h0IjoiPD0xMDI0Iiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvYTU0ODZlNGUtYTJhMC00NGQ4LTg5MWQtMmFjZGQ5OGQ1ZTQyXC9taWNoYWVsZ2VybWFueS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.DdNGHLpIP-EPe_9-mBA0--wst4ZVTgUXYykv-24dQAo");
+}
+
+
